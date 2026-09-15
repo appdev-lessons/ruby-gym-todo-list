@@ -1,8 +1,8 @@
 # Ruby Gym: Todo List
 
-In this exercise, you will create a class called `TodoList` that represents a simple to-do list. This class will allow users to add tasks, remove tasks, and display all tasks.
+Create a class called `TodoList` that represents a simple to-do list. It should allow users to add tasks, remove tasks, and display all tasks.
 
-This is practice for everything in [Bridge to Rails: Defining and using Classes](/lessons/573-classes-in-ruby): a class with an `initialize` method, an instance variable, and instance methods that use it.
+This is practice for everything in [Bridge to Rails: Defining and Using Classes](/lessons/573-classes-in-ruby): a class with an `initialize` method, an instance variable, and instance methods that use it.
 
 ## Objectives
 
